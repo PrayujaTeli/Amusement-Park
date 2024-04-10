@@ -1,8 +1,10 @@
+
+
+# Amusement Park Management System
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/PrayujaTeli/Amusement-Park/main/AmusmentPark.jpeg" alt="Amusement Park Logo">
 </p>
-
-# Amusement Park Management System
 
 Welcome to the Amusement Park Management System repository! 🎢🎡
 
