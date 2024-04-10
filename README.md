@@ -20,9 +20,7 @@ This repository contains the comprehensive database design and schema for effici
 
 ### Database Schema
 
-Our meticulously crafted schema lays the foundation for a robust management system, organized to optimize efficiency and accessibility.
-
-![Database Schema](https://example.com/your-schema-image.png)
+The meticulously crafted schema lays the foundation for a robust management system, organized to optimize efficiency and accessibility. meticulously crafted schema lays the foundation for a robust management system, organized to optimize efficiency and accessibility.
 
 ### Get Started
 
