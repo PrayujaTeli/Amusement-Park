@@ -1,9 +1,5 @@
-Sure! Here's an enhanced version of your GitHub README:
-
----
-
 <p align="center">
-  <img src="https://example.com/your-logo.png" alt="Amusement Park Logo">
+  <img src="https://raw.githubusercontent.com/PrayujaTeli/Amusement-Park/main/AmusmentPark.jpeg" alt="Amusement Park Logo">
 </p>
 
 # Amusement Park Management System
