@@ -35,12 +35,6 @@ To begin exploring or contributing to our project, follow these simple steps:
    Dive into our database design and schema to understand the inner workings of our amusement park management system.
 
 3. **Contribute:**
-   Feel free to contribute enhancements, suggest improvements, or report issues. We welcome collaboration from developers of all skill levels.
-
-### Contributors
-
-This project is made possible by contributions from individuals like you. We deeply appreciate the effort and dedication of our contributors. Thank you for helping us create magical experiences for visitors worldwide!
-
----
+   Feel free to contribute enhancements, suggest improvements, or report issues.
 
 Feel free to replace placeholders like `https://example.com/your-logo.png` and `https://example.com/your-schema-image.png` with actual links to your logo and schema image. Additionally, you can customize the text further to match the specifics of your project.
