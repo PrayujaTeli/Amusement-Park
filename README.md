@@ -36,5 +36,3 @@ To begin exploring or contributing to our project, follow these simple steps:
 
 3. **Contribute:**
    Feel free to contribute enhancements, suggest improvements, or report issues.
-
-Feel free to replace placeholders like `https://example.com/your-logo.png` and `https://example.com/your-schema-image.png` with actual links to your logo and schema image. Additionally, you can customize the text further to match the specifics of your project.
